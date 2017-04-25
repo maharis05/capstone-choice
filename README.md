@@ -16,7 +16,7 @@ a.	 Situation:  Predicting the airline with the best positive experience based o
 b.	Data:  Kaggle Datasets-Twitter U.S Airline Sentiment.
 c.	Goal:  To analyze twitter data based on positive, negative and neutral feedback; and then classify or categorize this information for reasons; missed connecting flights, bad service and other possible factors.
        
-1)	Predicting the lowest listing prices of Seattle Airbnb rentals during the year.
+3)	Predicting the lowest listing prices of Seattle Airbnb rentals during the year.
 
 a.	 Situation:  To determine if staying at an Airbnb is a better deal than lodging at a name brand hotel.
 b.	Data:  Kaggle Datasets-Seattle Airbnb open Data.
