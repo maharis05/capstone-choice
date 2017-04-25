@@ -8,7 +8,7 @@
 a.	Situation:  The incarceration rate in the U.S is the highest, at 724 people per 100,000.
 b.	Data:  National Archive of Criminal Justice Data (NACSD)-The criminal justice archive
        Within ICPSR.
-c.     Goal:  To observe certain characteristics as it relates to criminal history, prior drug and alcohol use and treatment programs.             Hopefully, the data will determine a better way of reducing the cycle of recidivism.
+c.     Goal:  To observe certain characteristics as it relates to criminal history, prior drug and alcohol use and treatment programs.             Hopefully,  the data will determine a better way of reducing the cycle of recidivism.
 
 2)	 Sentiment Analysis on U.S. Airlines
 
